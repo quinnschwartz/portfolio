@@ -2,19 +2,24 @@
   text-align: center;
 }
 
+.container2 {
+  background-color: black;
+}
+
 h1 {
   color: #00A74D;
-  padding-bottom: 10px;
-  font-family: fantasy;
-  font-size: 40px;
+  padding-bottom: 0px;
+  font-size: 70px;
+  font-family: futura;
+  font-weight: bold;
 }
 
 .about {
   background-color: black;
   padding-right: 50px;
   padding-left: 50px;
-  padding-top: 2px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   margin-top: 75px;
   border-width: 10px;
   border-color: #00A74D;
@@ -34,6 +39,7 @@ p {
 img {
   width: 300px;
   float: left;
+  padding-right: 2px;
 }
 
 h3 {
@@ -61,28 +67,36 @@ h2 em {
   color: #7122F8;
 }
 
-
 .row {
   padding: 10px;
 }
 
 .col-md-4 {
   background-color: black;
-  padding-right: 30px;
-  padding-left: 30px;
+  border-color: #00A74D;
+  padding-right: 10px;
+  padding-left: 10px;
   padding-bottom: 10px;
 }
 
 .projects {
-  margin-top: 300px;
+  margin-top: 500px;
+  font-size: 60px;
+  font-weight: bold;
+  margin-bottom: 0px;
 }
 
 .container3 {
   margin-top: 700px;
+  height: 100%;
 }
 .contact {
-  margin-top: 100px;
+  border-width: medium;
+  border-color: #00A74D;
+  margin-top: 5px;
+  padding-top: 5px;
   background-color: black;
+  height: 100%;
 }
 
 #contact{
@@ -93,4 +107,9 @@ h2 em {
 
 .bio {
   padding-top: 10px;
+  padding-left: 10px;
+}
+
+ {
+  margin-top: 600px
 }
