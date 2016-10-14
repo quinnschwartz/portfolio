@@ -7,11 +7,12 @@ body {
   color: #E0E1E0;
 }
 
-img {
-  width: 300px;
+p {
+  color: #E0E1E0
 }
 
-.about {
+img {
+  width: 300px;
 }
 
 h3 {
@@ -19,6 +20,6 @@ h3 {
   color: green;
 }
 
-.projects {
-  max-width: 200px;
+h2 {
+  color: green;
 }
