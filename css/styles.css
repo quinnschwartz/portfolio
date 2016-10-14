@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+h1 {
+  color: #00A74D;
+}
+
+/*.about {
+  float: right;
+}*/
+
+ .header {
+   float: left;
+ }
+
 body {
   background-image: url(../img/space.jpg);
   color: #E0E1E0;
@@ -18,13 +30,28 @@ img {
 h3 {
   font-size: 15pt;
   color: green;
-}
-
-h2 {
-  color: ;
   text-align: center;
 }
 
-h2 em{
-  color: green
+h2 {
+  color: #00A74D;
+  text-align: center;
+}
+
+h2 em {
+  color: ##337ab7;
+}
+
+.Epicodus {
+  color:#00b3b4;
+  font-weight: bold;
+}
+
+/*.links {
+  color: #7122F8;
+}
+*/
+
+.row {
+  padding: 10px;
 }
