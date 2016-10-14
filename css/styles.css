@@ -1,0 +1,11 @@
+.container {
+  text-align: center;
+}
+
+body {
+  background-image: url(../img/space.jpg);
+}
+
+img {
+  width: 300px;
+}
