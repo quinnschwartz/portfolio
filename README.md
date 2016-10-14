@@ -18,7 +18,7 @@ _This web page will serve as the home page for my web development portfolio (wee
 *_HTML_
 *_CSS_
 *_Bootstrap_
-* _Git_
+*_Git_
 
 ### Legal
 
