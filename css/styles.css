@@ -4,8 +4,21 @@
 
 body {
   background-image: url(../img/space.jpg);
+  color: #E0E1E0;
 }
 
 img {
   width: 300px;
+}
+
+.about {
+}
+
+h3 {
+  font-size: 15pt;
+  color: green;
+}
+
+.projects {
+  max-width: 200px;
 }
