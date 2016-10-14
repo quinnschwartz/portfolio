@@ -2,7 +2,7 @@
 
 #### _HTML, CSS and Git exercise for Epicodus, 10.14.2016_
 
-#### By _**By Quinn Schwartz**_
+#### _**By Quinn Schwartz**_
 
 ## Description
 
@@ -15,7 +15,7 @@ _This web page will serve as the home page for my web development portfolio (wee
 
 ## Technologies Used
 
-* _HTML_
+*_HTML_
 *_CSS_
 *_Bootstrap_
 * _Git_
