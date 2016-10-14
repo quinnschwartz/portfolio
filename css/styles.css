@@ -6,13 +6,18 @@ h1 {
   color: #00A74D;
 }
 
-/*.about {
-  float: right;
-}*/
-
- .header {
-   float: left;
- }
+.about {
+  background-color: black;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 2px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  border-width: 10px;
+  border-color: #00A74D;
+  width: 800px;
+  display: inline-block;
+}
 
 body {
   background-image: url(../img/space.jpg);
@@ -25,6 +30,7 @@ p {
 
 img {
   width: 300px;
+  float: left;
 }
 
 h3 {
@@ -54,4 +60,29 @@ h2 em {
 
 .row {
   padding: 10px;
+}
+
+.col-md-4 {
+  background-color: black;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
+
+.projects {
+  margin-top: 300px;
+}
+
+.container3 {
+  margin-top: 700px;
+}
+.contact {
+  margin-top: 100px;
+  background-color: black;
+}
+
+#contact{
+  font-size: 20pt;
+  padding-bottom: 20px;
+  text-align: center;
 }
