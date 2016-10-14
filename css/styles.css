@@ -4,6 +4,9 @@
 
 h1 {
   color: #00A74D;
+  padding-bottom: 10px;
+  font-family: fantasy;
+  font-size: 40px;
 }
 
 .about {
@@ -11,8 +14,8 @@ h1 {
   padding-right: 50px;
   padding-left: 50px;
   padding-top: 2px;
-  padding-bottom: 50px;
-  margin-top: 50px;
+  padding-bottom: 15px;
+  margin-top: 75px;
   border-width: 10px;
   border-color: #00A74D;
   width: 800px;
@@ -46,6 +49,7 @@ h2 {
 
 h2 em {
   color: ##337ab7;
+  padding-top: 40px;
 }
 
 .Epicodus {
@@ -53,10 +57,10 @@ h2 em {
   font-weight: bold;
 }
 
-/*.links {
+.links {
   color: #7122F8;
 }
-*/
+
 
 .row {
   padding: 10px;
@@ -85,4 +89,8 @@ h2 em {
   font-size: 20pt;
   padding-bottom: 20px;
   text-align: center;
+}
+
+.bio {
+  padding-top: 10px;
 }
