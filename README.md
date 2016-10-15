@@ -20,6 +20,10 @@ _This web page will serve as the home page for my web development portfolio (wee
 * _Bootstrap_
 * _Git_
 
+## link
+
+_https://quinnschwartz.github.io/portfolio/_
+
 ### Legal
 
 *This software is licensed under the MIT license.*
